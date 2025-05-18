@@ -99,6 +99,6 @@ WHERE c.instructor = 'Dr. Ahuja';
 ### 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com)
-- 📬 aryan@email.com
+- 📬 sbsnnwc15124@email.com
 
 #SQL #StudentDatabase #DataAnalytics #Practice #MySQL #GitHubPortfolio
